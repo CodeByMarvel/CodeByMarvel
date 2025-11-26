@@ -1,4 +1,4 @@
-      # Hi, I'm Lenny 👋  
+    # Hi, I'm Lenny 👋  
 **Automotive Engineer | Software Developer | Student**  
 
 Passionate about cars, technology, and building smart solutions that deliver quality and excellence. I combine hands-on engineering with software development skills to create tools and products that make a difference. Always learning, always improving — striving for excellence in everything I do.  
@@ -12,7 +12,7 @@ Passionate about cars, technology, and building smart solutions that deliver qua
 
 ---
 
-## 🔧 Skills & Technologies
+   ## 🔧 Skills & Technologies
 - **Programming:** Java | JavaScript  
 - **Automotive Tools:** OBD systems, diagnostics, vehicle optimization  
 - **Software & Frameworks:** React | Node.js | Git | SQL  
@@ -20,7 +20,7 @@ Passionate about cars, technology, and building smart solutions that deliver qua
 
 ---
 
-## 🎯 Interests
+  ## 🎯 Interests
 - Automotive innovation and engineering excellence  
 - Building smart software solutions  
 - Open-source contributions and collaborative projects  
@@ -28,13 +28,17 @@ Passionate about cars, technology, and building smart solutions that deliver qua
 
 ---
 
-## 📚 Recent Projects
-- **[Inventory Management System](link)** — A project integrating software tools for efficient tracking and management.  
+  ## 📚 Recent Projects
+- **[Inventory Management System](https://github.com/YourUsername/Inventory-Management-System)** — A project integrating software tools for efficient tracking and management.  
+<!-- Add more projects below in the same format if needed -->
+- **[Project Name](Project Link)** — Short description here.  
 
 ---
 
-## 📫 Connect With Me
-[LinkedIn](https://www.linkedin.com/in/marvel-baraka-5996ba376/)| [Portfolio](your-portfolio-link) | [Email](marvelbaraka26@gmail.com)  
+   ## 📫 Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/marvel-baraka-5996ba376/)  
+- [Portfolio](https://your-portfolio-link.com)  
+- [Email](mailto:marvelbaraka26@gmail.com)  
 
 ---
 
