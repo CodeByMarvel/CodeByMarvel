@@ -29,13 +29,12 @@ Passionate about cars, technology, and building smart solutions that deliver qua
 ---
 
 ## 📚 Recent Projects
-- **[Smart Vehicle Diagnostics Tool](link)** — A software solution to monitor and optimize vehicle performance.  
 - **[Inventory Management System](link)** — A project integrating software tools for efficient tracking and management.  
 
 ---
 
 ## 📫 Connect With Me
-[LinkedIn](your-linkedin-link) | [Portfolio](your-portfolio-link) | [Email](mailto:your-email@example.com)  
+[LinkedIn](your-linkedin-link) | [Portfolio](your-portfolio-link) | [Email](marvelbaraka26@gmail.com)  
 
 ---
 
