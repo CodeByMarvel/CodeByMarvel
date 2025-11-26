@@ -1,16 +1,42 @@
-## Hi there 👋
+      # Hi, I'm Lenny 👋  
+**Automotive Engineer | Software Developer | Student**  
 
-<!--
-**CodeByMarvel/CodeByMarvel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate about cars, technology, and building smart solutions that deliver quality and excellence. I combine hands-on engineering with software development skills to create tools and products that make a difference. Always learning, always improving — striving for excellence in everything I do.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 What I’m Working On
+- Developing smart automotive tools and applications to optimize performance and efficiency.  
+- Exploring software projects that integrate real-world engineering concepts.  
+- Continuously learning new technologies to improve my skillset.  
+
+---
+
+## 🔧 Skills & Technologies
+- **Programming:** Python | Java | JavaScript  
+- **Automotive Tools:** OBD systems, diagnostics, vehicle optimization  
+- **Software & Frameworks:** React | Node.js | Git | SQL  
+- **Other:** Problem-solving | Critical thinking | Creativity | Innovation  
+
+---
+
+## 🎯 Interests
+- Automotive innovation and engineering excellence  
+- Building smart software solutions  
+- Open-source contributions and collaborative projects  
+- Continuous learning and skill development  
+
+---
+
+## 📚 Recent Projects
+- **[Smart Vehicle Diagnostics Tool](link)** — A software solution to monitor and optimize vehicle performance.  
+- **[Inventory Management System](link)** — A project integrating software tools for efficient tracking and management.  
+
+---
+
+## 📫 Connect With Me
+[LinkedIn](your-linkedin-link) | [Portfolio](your-portfolio-link) | [Email](mailto:your-email@example.com)  
+
+---
+
+> "Striving for excellence, one project at a time." 🚀
