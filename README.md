@@ -13,7 +13,7 @@ Passionate about cars, technology, and building smart solutions that deliver qua
 ---
 
 ## 🔧 Skills & Technologies
-- **Programming:** Python | Java | JavaScript  
+- **Programming:** Java | JavaScript  
 - **Automotive Tools:** OBD systems, diagnostics, vehicle optimization  
 - **Software & Frameworks:** React | Node.js | Git | SQL  
 - **Other:** Problem-solving | Critical thinking | Creativity | Innovation  
@@ -34,7 +34,7 @@ Passionate about cars, technology, and building smart solutions that deliver qua
 ---
 
 ## 📫 Connect With Me
-[LinkedIn](your-linkedin-link) | [Portfolio](your-portfolio-link) | [Email](marvelbaraka26@gmail.com)  
+[LinkedIn]([your-linkedin-link](https://www.linkedin.com/feed/)) | [Portfolio](your-portfolio-link) | [Email](marvelbaraka26@gmail.com)  
 
 ---
 
