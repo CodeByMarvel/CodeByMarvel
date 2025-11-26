@@ -34,7 +34,7 @@ Passionate about cars, technology, and building smart solutions that deliver qua
 ---
 
 ## 📫 Connect With Me
-[LinkedIn](https://www.linkedin.com/feed/) | [Portfolio](your-portfolio-link) | [Email](marvelbaraka26@gmail.com)  
+[LinkedIn](www.linkedin.com/in/marvel-baraka-5996ba376)| [Portfolio](your-portfolio-link) | [Email](marvelbaraka26@gmail.com)  
 
 ---
 
