@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1200&color=0A1F44&center=true&vCenter=true&width=650&lines=Hello+there+%F0%9F%91%8B;I%E2%80%99m+MARVELUX;Pioneer+I+Stand +!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1200&color=0A1F44&center=true&vCenter=true&width=720&lines=Hello+there+%F0%9F%91%8B;I%E2%80%99m+MARVELUX;Quietly+shipping+useful+things." />
 </p>
 
 
