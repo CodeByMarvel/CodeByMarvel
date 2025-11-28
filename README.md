@@ -1,4 +1,10 @@
-    # Hi, I'm Lenny 👋  
+<p align="center">
+  <img src="./Navy And White Geometric Technology LinkedIn Banner.png" alt="Lenny Carvel Banner" />
+</p>
+
+<h2 align="center"> MARVELUX</h2>
+<p align="center"><b>Engineering performance from hardware to code.</b></p>
+
 **Automotive Engineer | Software Developer | Student**  
 
 Passionate about cars, technology, and building smart solutions that deliver quality and excellence. I combine hands-on engineering with software development skills to create tools and products that make a difference. Always learning, always improving — striving for excellence in everything I do.  
