@@ -1,9 +1,7 @@
 <p align="center">
-  <img src="./Navy And White Geometric Technology LinkedIn Banner.png" alt="Lenny Carvel Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1200&color=0A1F44&center=true&vCenter=true&width=650&lines=Hello+there+%F0%9F%91%8B;I%E2%80%99m+MARVELUX;Pioneer+I+Stand +!" />
 </p>
 
-<h2 align="center"> MARVELUX</h2>
-<p align="center"><b>Engineering performance from hardware to code.</b></p>
 
 **Automotive Engineer | Software Developer | Student**  
 
