@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1200&color=0A1F44&center=true&vCenter=true&width=720&lines=Hello+there+%F0%9F%91%8B;I%E2%80%99m+MARVELUX;Quietly+shipping+useful+things." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1200&color=0A1F44&center=true&vCenter=true&width=720&lines=Hello+there+%F0%9F%91%8B;I%E2%80%99m+MARVELUX;Quietly+shipping+great+things." />
 </p>
 
 
@@ -17,7 +17,7 @@ Passionate about cars, technology, and building smart solutions that deliver qua
 ---
 
    ## 🔧 Skills & Technologies
-- **Programming:** Java | JavaScript  
+- **Programming:** Java | JavaScript|C++| 
 - **Automotive Tools:** OBD systems, diagnostics, vehicle optimization  
 - **Software & Frameworks:** React | Node.js | Git | SQL  
 - **Other:** Problem-solving | Critical thinking | Creativity | Innovation  
@@ -34,8 +34,7 @@ Passionate about cars, technology, and building smart solutions that deliver qua
 
   ## 📚 Recent Projects
 - **[Inventory Management System](https://github.com/YourUsername/Inventory-Management-System)** — A project integrating software tools for efficient tracking and management.  
-<!-- Add more projects below in the same format if needed -->
-- **[Project Name](Project Link)** — Short description here.  
+<!-- Add more projects below in the same format if needed -->  
 
 ---
 
