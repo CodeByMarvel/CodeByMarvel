@@ -38,20 +38,17 @@ Passionate about cars, technology, and building smart solutions that deliver qua
 
 ---
 
-  ## 📫 Connect With Me
-
-## 📫 Connect With Me
+ ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/marvel-baraka-5996ba376/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Marvel%20Baraka-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/marvel-baraka-5996ba376/">
+    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:marvelbaraka26@gmail.com">
-    <img src="https://img.shields.io/badge/Email-marvelbaraka26%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img height="32" src="https://www.svgrepo.com/show/349379/gmail.svg"/>
   </a>
 </p>
-
 
 ---
 
