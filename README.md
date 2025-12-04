@@ -51,7 +51,7 @@ Passionate about cars, technology, and building smart solutions that deliver qua
 
   <a href="mailto:marvelbaraka26@gmail.com" target="blank">
     <img align="center" 
-         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" 
+         src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" 
          alt="marvel baraka email" 
          height="30" width="40" />
   </a>
