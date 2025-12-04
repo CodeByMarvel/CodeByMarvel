@@ -40,15 +40,23 @@ Passionate about cars, technology, and building smart solutions that deliver qua
 
 ## 📫 Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/marvel-baraka-5996ba376/" target="_blank">
-    <img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/marvel-baraka-5996ba376/" target="blank">
+    <img align="center" 
+         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+         alt="marvel baraka linkedin" 
+         height="30" width="40" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:marvelbaraka26@gmail.com">
-    <img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" />
+
+  <a href="mailto:marvelbaraka26@gmail.com" target="blank">
+    <img align="center" 
+         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" 
+         alt="marvel baraka email" 
+         height="30" width="40" />
   </a>
 </p>
+
 
 ---
 
