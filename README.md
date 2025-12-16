@@ -3,7 +3,7 @@
 </p>
 
 
-**Automotive Engineer | Software Developer **  
+**Automotive Engineer | Software Developer**  
 
 Passionate about cars, technology, and building smart solutions that deliver quality and excellence. I combine hands-on engineering with software development skills to create tools and products that make a difference. Always learning, always improving — striving for excellence in everything I do.  
 
