@@ -55,6 +55,7 @@ Passionate about cars, technology, and building smart solutions that deliver qua
          alt="marvel baraka email" 
          height="30" width="40" />
   </a>
+  <a href="https://x.com/MarvelB87887" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="marvelux" height="30" width="40" /></a>
 </p>
 
 
