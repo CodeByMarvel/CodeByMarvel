@@ -33,7 +33,7 @@ Passionate about cars, technology, and building smart solutions that deliver qua
 ---
 
   ## 📚 Recent Projects
-- **[Inventory Management System](https://github.com/YourUsername/Inventory-Management-System)** — A project integrating software tools for efficient tracking and management.  
+- **[MARVELUX-MTG]((https://github.com/CodeByMarvel/marvelux-mtg))** — A mobile app that brings about efficiency in how mechanics and ctheir customers operate.  
 <!-- Add more projects below in the same format if needed -->  
 
 ---
