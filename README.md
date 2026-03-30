@@ -33,7 +33,7 @@ Passionate about cars, technology, and building smart solutions that deliver qua
 ---
 
   ## 📚 Recent Projects
-- **[MARVELUX-MTG]((https://github.com/CodeByMarvel/marvelux-mtg))** — A mobile app that brings about efficiency in how mechanics and their customers operate.  
+- **[(MARVELUX-MTG)]((https://github.com/CodeByMarvel/marvelux-mtg))** — A mobile app that brings about efficiency in how mechanics and their customers operate.  
 <!-- Add more projects below in the same format if needed -->  
 
 ---
