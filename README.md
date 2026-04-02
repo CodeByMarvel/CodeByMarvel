@@ -1,71 +1,114 @@
+<!-- ===================== MARVELUX IDENTITY SYSTEM ===================== -->
+
+<div style="background:#0A0A0A; padding:32px; border-radius:18px; border:1px solid #191970;">
+
+<!-- HERO TEXT -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1200&color=0D1B2A&center=true&vCenter=true&width=800&lines=Hello+there+👋;I%E2%80%99m+MARVELUX;Engineering+precision+%7C+Building+systems." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1200&color=191970&center=true&vCenter=true&width=800&lines=Precision+in+motion;Systems+thinking+engineered;Building+what+actually+works" />
 </p>
 
-<h1 align="center" style="color:#0D1B2A;">MARVELUX</h1>
+<h1 align="center" style="color:#191970; letter-spacing:2px;">
+  MARVELUX
+</h1>
 
-<p align="center">
-  <span style="color:#1B263B;">Automotive Engineer</span> • 
-  <span style="color:#1B263B;">Software Developer</span>
-</p>
-
----
-
-<h3 align="center" style="color:#415A77; max-width:700px; margin:auto;">
-I build at the intersection of machines and code — creating systems that are efficient, reliable, and built to last.  
-Focused on real-world impact, not noise.
-</h3>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=codebymarvel&label=Profile%20Views&color=0D1B2A&style=flat-square" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=codebymarvel&theme=darkhub&no-frame=true&margin-w=10" />
+<p align="center" style="color:#CFCFCF;">
+  Automotive Engineering • Software Systems • Applied Precision
 </p>
 
 ---
 
-### ⚙️ Current Focus
-- 🔭 Building: **Marvelux MTG (Mechanic On-Demand Platform)**
-- 🌱 Growing in: **JavaScript • React Native • System Design**
-- 📫 Reach me: **marvelbaraka26@gmail.com**
+<!-- CORE STATEMENT -->
+<div style="background:#111827; padding:18px; border-radius:14px; border-left:3px solid #191970;">
+
+<p align="center" style="color:#E5E5E5; line-height:1.6;">
+I design and build systems where engineering discipline meets software logic.  
+Every project is treated like a machine: measured, optimized, and refined for reliability.
+</p>
+
+</div>
 
 ---
 
-### 🌐 Connect
-<p align="center">
-<a href="https://instagram.com/_m.l_baraka." target="blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="28"/>
+<!-- CURRENT FOCUS -->
+<h3 style="color:#191970;">Current Work</h3>
+
+<p style="color:#D0D0D0;">
+• Building <b>marvelux-mtg</b> as a real-world service system  
+<br>
+• Developing React Native mobile workflows  
+<br>
+• Exploring automotive intelligence + mobility systems  
+</p>
+
+---
+
+<!-- CONTACT -->
+<h3 style="color:#191970;">Contact</h3>
+
+<p style="color:#B0B0B0;">
+Email: <b style="color:#E5E5E5;">marvelbaraka26@gmail.com</b>
+</p>
+
+---
+
+<!-- CONNECT -->
+<h3 style="color:#191970;">Connect</h3>
+
+<p align="left">
+
+<a href="https://twitter.com/marvelb87887">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="36"/>
 </a>
+
+<a href="https://linkedin.com/in/marvel-baraka-5996ba376">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="36"/>
+</a>
+
+<a href="https://instagram.com/_m.l_baraka.">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="36"/>
+</a>
+
 </p>
 
 ---
 
-### 🧠 Tech Stack
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,reactnative,mongodb,firebase,git,figma,tailwind" />
+<!-- TECH STACK -->
+<h3 style="color:#191970;">Tools & Systems</h3>
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="38"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="38"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="38"/>
+<img src="https://reactnative.dev/img/header_logo.svg" width="38"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="38"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="38"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="38"/>
 </p>
 
 ---
 
-### 📊 Performance
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codebymarvel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1B2A" />
+<!-- STATS -->
+<h3 style="color:#191970;">System Metrics</h3>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=codebymarvel&show_icons=true&bg_color=0A0A0A&title_color=191970&icon_color=191970&text_color=D0D0D0" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codebymarvel&theme=tokyonight&hide_border=true&background=0D1B2A" />
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codebymarvel&layout=compact&bg_color=0A0A0A&title_color=191970&text_color=D0D0D0" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codebymarvel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1B2A" />
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codebymarvel&theme=dark" />
 </p>
 
 ---
 
-<p align="center" style="color:#778DA9;">
-"Precision over hype. Systems over noise."
+<!-- FOOTER PHILOSOPHY -->
+<p align="center" style="color:#6B7280;">
+Precision over noise. Structure over hype. Function over decoration.
 </p>
+
+</div>
+
+<!-- ===================== END ===================== -->
