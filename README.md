@@ -1,3 +1,4 @@
+
 <!-- ===================== MARVELUX IDENTITY SYSTEM ===================== -->
 
 <div style="background:#0A0A0A; padding:32px; border-radius:18px; border:1px solid #191970;">
@@ -21,7 +22,7 @@
 <div style="background:#111827; padding:18px; border-radius:14px; border-left:3px solid #191970;">
 
 <p align="center" style="color:#E5E5E5; line-height:1.6;">
-I design and build systems where engineering discipline meets software logic.  
+I design and build systems where engineering discipline meets software logic.
 Every project is treated like a machine: measured, optimized, and refined for reliability.
 </p>
 
@@ -33,11 +34,11 @@ Every project is treated like a machine: measured, optimized, and refined for re
 <h3 style="color:#191970;">Current Work</h3>
 
 <p style="color:#D0D0D0;">
-• Building <b>marvelux-mtg</b> as a real-world service system  
+• Building <b>Fundi-X</b> as a real-world automotive service platform
 <br>
-• Developing React Native mobile workflows  
+• Developing React Native mobile workflows
 <br>
-• Exploring automotive intelligence + mobility systems  
+• Exploring automotive intelligence + mobility systems
 </p>
 
 ---
@@ -80,6 +81,9 @@ Email: <b style="color:#E5E5E5;">marvelbaraka26@gmail.com</b>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="38"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="38"/>
 <img src="https://reactnative.dev/img/header_logo.svg" width="38"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="38"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="38"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="38"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="38"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="38"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="38"/>
@@ -112,3 +116,4 @@ Precision over noise. Structure over hype. Function over decoration.
 </div>
 
 <!-- ===================== END ===================== -->
+```
